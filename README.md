@@ -11,18 +11,17 @@
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,angular,react,ts,postgres,docker,redis,linux,git,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,angular,react,ts,php,postgres,docker,redis,linux,git,elasticsearch" />
 </p>
 
----
-
+<!--
 ## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtspierozan&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<!--
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mtspierozan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtspierozan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>

@@ -11,7 +11,7 @@
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,angular,react,ts,php,postgres,docker,redis,linux,git,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,angular,react,ts,php,postgres,docker,redis,linux,git,elasticsearch,kali" />
 </p>
 
 <!--
